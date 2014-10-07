@@ -1,0 +1,8 @@
+c:\users\rfernandez\documents\visual studio 2013\Projects\FSharpConsoleApplication\FSharpConsoleApplication\bin\Debug\FSharpConsoleApplication.exe.config
+c:\users\rfernandez\documents\visual studio 2013\Projects\FSharpConsoleApplication\FSharpConsoleApplication\bin\Debug\FSharpConsoleApplication.XML
+c:\users\rfernandez\documents\visual studio 2013\Projects\FSharpConsoleApplication\FSharpConsoleApplication\bin\Debug\FSharpConsoleApplication.exe
+c:\users\rfernandez\documents\visual studio 2013\Projects\FSharpConsoleApplication\FSharpConsoleApplication\bin\Debug\FSharpConsoleApplication.pdb
+c:\users\rfernandez\documents\visual studio 2013\Projects\FSharpConsoleApplication\FSharpConsoleApplication\bin\Debug\FSharp.Core.dll
+c:\users\rfernandez\documents\visual studio 2013\Projects\FSharpConsoleApplication\FSharpConsoleApplication\bin\Debug\FSharp.Core.xml
+c:\users\rfernandez\documents\visual studio 2013\Projects\FSharpConsoleApplication\FSharpConsoleApplication\obj\Debug\FSharpConsoleApplication.exe
+c:\users\rfernandez\documents\visual studio 2013\Projects\FSharpConsoleApplication\FSharpConsoleApplication\obj\Debug\FSharpConsoleApplication.pdb
